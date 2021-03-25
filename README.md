@@ -12,7 +12,7 @@ Create a simple Github Issue browser
 
 ## To Run the Application - 
 
-1. Download -  git clone
+1. git clone git@github.com:rut999/Github-Issue-Tracker.git
 2. cd Github-Issue-Tracker
 3. npm install (Installing the dependency packages)
 4. npm start
